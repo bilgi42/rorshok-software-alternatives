@@ -1,0 +1,15 @@
+Github : https://github.com/zed-industries/zed
+
+Zed is a code editor, written in Rust.
+It has a growing community.
+
+Pros[+]:
+-Written in rustlang, it makes it light and fast. It's an advantage compared to Vscode(Industry standart), written in ElectronJS.
+-Good and minimalistic design
+
+Cons[-]:
+-No code completion, yet
+-No rainbow brackets and parantheses, yet
+-Poor language server in a lot of languages and no code runner, yet
+-Not very customizable
+-Poor extension support
