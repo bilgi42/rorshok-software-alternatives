@@ -1,0 +1,17 @@
+Source code : https://hg.mozilla.org/mozilla-central/
+
+Firefox is a popular web browser, built with Gecko
+It was quite popular before the release of Google Chrome
+
+Pros[+]:
+-Not another Chromium based browser
+-Open source
+-Good extension support, unlike Google Chrome's Manifest v3 engine
+-Actually good UI and customization options, especially with userChrome.css for experienced users
+-Built in tree tabs
+
+
+Cons[-]:
+-Sometimes it has memory leaks
+-Because all web is designed for Chrome, sometimes it has webpage rendering issues, but its really rare in 2024
+
