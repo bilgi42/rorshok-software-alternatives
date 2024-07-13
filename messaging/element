@@ -1,0 +1,16 @@
+Source code for Element : https://github.com/element-hq/element-web
+Source code for Matrix, the protocol Element uses : https://github.com/matrix-org/matrix-rust-sdk
+
+Element is a open source, end to end encrypted messaging app. It prioritizes security while not sacrifing user comfortability. DM's and group features are availabe. It also has video chat and voice chat support.
+
+Pros[+]:
+-Their protocol is open source. That means anyone can spin a instance of it with their own servers for private chat places.
+-Open source, both protocol and the app.
+-A lot of code written in Rust. That means stability and performance is going to be good.
+-Modern design, unlike a lot of free and secure messaging apps.
+
+
+Cons[-]:
+-Their default security measures might be too much for a beginner user.
+-It has no definitive purpose. It can be a Discord substitute and Telegram substitute at the same time.
+
