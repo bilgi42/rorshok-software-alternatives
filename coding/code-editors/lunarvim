@@ -1,0 +1,17 @@
+Source code : https://github.com/LunarVim/LunarVim
+
+LunarVim is a neovim based text editor.
+It is an attempt to IDEify neovim, with minimal effort.
+
+
+Pros[-]:
+-Gives a lot of vim freedom without configuring it.
+-Really good extension support.
+-Blazingly fast when combined with a fast terminal editor, like alacritty.
+-Uses a lot less resources when compared to VSCode and a lot other code editors.
+
+Cons[-]:
+-New users may struggle with vim logic.
+-It is not out of the box usable as it claims to be, I don't blame them for that but downloading Hack fonts and setting language servers for every language is not the most easiest experience.
+-It feels a lot like a text editor, more than a code editor. It doesn't show errors in code, it doesn't have a debugging tool and a code running tool out of the box.
+
