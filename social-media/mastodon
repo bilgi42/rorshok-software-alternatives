@@ -1,0 +1,15 @@
+Source code : https://github.com/mastodon/mastodon
+
+Mastodon is a open source twitter like social media platform.
+It is, by far, the biggest open source social media right now.
+It has a main server, mastodon.social. That helps Mastodon by getting a lot of people in one server, making people interact with each other more.
+
+Pros[+]:
+-It is the biggest platform, at the time.
+-It is twitter styled, that prevents echo-chambers.
+-It has a one big main server, instead of bunch of little ones. You can use it more like a social media and less like a forum.
+-Modern design and user interface.
+-Excellent cross-platform support.
+
+Cons[-]:
+-User base is not that great right now. Open source software tends to attract a lot of weird people too, unfortunately.
