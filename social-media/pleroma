@@ -1,0 +1,14 @@
+Source Code : https://git.pleroma.social/pleroma/
+
+Pleroma is an open source social media platfrom, like old Twitter.
+It currently has 921 instances and 21K active users.
+It hosts mostly tech-savvy instances but self hosting a Pleroma instance is easy.
+
+Pros[+]:
+-Uses extremely low resources, even can be hosted by a Raspberry Pi, written in Elixir.
+-Simple UI and UX.
+
+Cons[-]:
+-Most people are tech oriented. It may sound boring if you don't like technology.
+
+
